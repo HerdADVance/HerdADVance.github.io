@@ -22,7 +22,7 @@
 	
 	<nav>
 		<img src="/static/img/sbc-logo.png" class="conf-logo" alt="Sun Belt Conference logo">
-		<h1>2022-23 Men's Basketball Odds</h1>
+		<h1>2022-23 Men's Basketball Oddsssss</h1>
 		<ul>
 			<span>Simulate Season</span>
 			<li id="schedule" data-wrap="standings" class="active">Schedule</li>
